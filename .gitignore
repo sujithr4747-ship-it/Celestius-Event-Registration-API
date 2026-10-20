@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+celestius.db
+.pytest_cache/
+.env
